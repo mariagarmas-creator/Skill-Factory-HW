@@ -4,3 +4,9 @@ Skill factory course [Skillfactory Learning](https://apps.skillfactory.ru/learni
 # Projects:
 [guess the number game](https://github.com/mariagarmas-creator/Skill-Factory-HW.git)
 
+README.md должен содержать следующую информацию:
+
+какой кейс мы решаем;
+какими данными оперируем;
+каковы были этапы работы над проектом;
+какие результаты были получены.
