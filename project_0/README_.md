@@ -8,10 +8,13 @@
 [5. Результат](.README.md#Результат)    
 [6. Выводы](.README.md#Выводы) 
 
+
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
 :arrow_up:[к оглавлению](_)
+
+https://docs.google.com/spreadsheets/d/1HZKxVoX0NLgpfqyNXtMDS2IJRVd_N0nNMsFkbBlcG2Y/edit?usp=sharing
 
 
 ### Какой кейс решаем?    
@@ -29,27 +32,27 @@
 
 
 ### Краткая информация о данных
-....
+Here is a link to Gian excel file, it just was in homework and not connected to number guessing program. Xlsx is also mentioned in .gitignore file. 
+Link to exel file saved on my Google disk: https://docs.google.com/spreadsheets/d/1HZKxVoX0NLgpfqyNXtMDS2IJRVd_N0nNMsFkbBlcG2Y/edit?usp=sharing
   
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
-....
+I made a game game_V3, what guesses the number less than in 20 tries. we always divede our range by 2, then programs tells us if correct number is bigger or smaller, and then again we devide new range by 2. 
+Here is a link to Google Colab baseline file with all 3 games and control:  https://colab.research.google.com/drive/1HZJ1lOEqGL5HvjCv5vUlbVqEfKVOFsT-?usp=sharing
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
 ### Результаты:  
-....
-
+Game is guessing the number in 5 tries in 1000 seed.
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
 ### Выводы:  
-....
+Its a good game. 
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
-Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
